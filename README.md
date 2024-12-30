@@ -1,4 +1,4 @@
-# SEP 785 Final Project: Wine Classification using Machine Learning
+# Wine Classification using Machine Learning
 
 ## **Overview**
 This project applies machine learning techniques to classify **Red** and **White** wines based on the **UCI Wine Quality Dataset**. The dataset combines red and white wine data, and the classification task is to distinguish between the two wine types. The performance of three machine learning algorithms is evaluated: 
